@@ -5,9 +5,9 @@ Hi, my name is Ojas and you've found my Python repository. Here I have some Pyth
 
 2. [Python](https://github.com/BOLTZZ/Python)
 
-3. [HTML&CSS]()
+3. [HTML & CSS](https://github.com/BOLTZZ/HTML-CSS)
 
-4. [Javascript]()
+4. [Javascript](https://github.com/BOLTZZ/Javascript)
 # Table Contents:
 | Python
 | ------------------
