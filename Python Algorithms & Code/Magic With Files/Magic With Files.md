@@ -8,7 +8,7 @@ As explained before this program does a multitude of things:
 * Prints the word(s) with the most vowels.
 * Prints the word(s) with the least vowels.
 
-[Code]()
+[Code](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Magic%20With%20Files/Code.md)
 
 Inputted [file](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Magic%20With%20Files/Inputted%20File.md)
 
