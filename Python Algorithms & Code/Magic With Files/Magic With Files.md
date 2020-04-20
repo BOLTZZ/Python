@@ -10,7 +10,7 @@ As explained before this program does a multitude of things:
 
 [Code]()
 
-Inputted [file]()
+Inputted [file](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Magic%20With%20Files/Inputted%20File.md)
 
 See it in action:
 
