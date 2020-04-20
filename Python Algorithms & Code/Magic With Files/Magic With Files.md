@@ -13,3 +13,5 @@ As explained before this program does a multitude of things:
 Inputted [file]()
 
 See it in action:
+
+![1](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Magic%20With%20Files/Magic_File_Showcase.gif)
