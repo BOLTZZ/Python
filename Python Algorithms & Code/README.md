@@ -13,3 +13,7 @@ Asteroid Game In Action:
 Cat Running Animation In Action:
 
 ![2](https://github.com/BOLTZZ/Cat-Running-Animation/blob/master/ezgif.com-video-to-gif.gif)
+
+Magic With Files In Action:
+
+![3](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Magic%20With%20Files/Magic_File_Showcase.gif)
