@@ -1,4 +1,8 @@
 # How to Read and Edit Files on the Computer using Python:
+3 types of files:
+* Readable (reads the file).
+* Writable (writes over the file and deletes the earlier text).
+* Appendable (appends to the end of the file).
 ```python
 path = "C:\\Users\\user\\PycharmProjects\\ACSLtest\\Test"
 # This is the original path: "C:\Users\user\PycharmProjects\ACSLtest\Test"
