@@ -6,7 +6,7 @@ This program does a lot of things:
 4. Takes in a string and removes all the vowels.
 5. Takes in a list of words and finds which words' number of characters are equal to or less than the user's number.
 
-[Code]()
+[Code](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/List%20Comprehension/Code.md)
 
 See it in action:
 
