@@ -58,3 +58,10 @@ Though, the order of precedence is the same:
 4. Float = Numbers with decimals (Not accuarate as a double).
 5. Boolean = True or false.
 6. Char = A value that can be 16 bits in size (A).
+* In operator:
+```python
+cars = ["Ford", "Lambo", "Ferrari"]
+for car in cars: #The in operator helps iterate through each objects in the list, cars.
+  print(car)
+  #Prints each object
+```
