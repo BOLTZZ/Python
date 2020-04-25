@@ -10,4 +10,4 @@ This program does a lot of things:
 
 See it in action:
 
-![1]()
+![1](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/List%20Comprehension/list_comprehension.gif)
