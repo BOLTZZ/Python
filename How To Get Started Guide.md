@@ -2,7 +2,7 @@
 You need the following items:
 * A desktop or laptop.
 * You need to install the [Chocolatey package manager](https://chocolatey.org/docs/installation) here.
-* Make sure to install Visual Studio Code by going to command prompt and typing in, "choco install vscode". [Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) 
+* Make sure to install Visual Studio Code by going to command prompt and typing in, "choco install vscode". [Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf). 
 * Or you can download the [Pycharm IDE](https://www.jetbrains.com/pycharm/download/#section=windows)
 * Also, you might want to create an [Repl.it](https://repl.it/login?goto=%2Fhome) account so your projects can be shared.
 * Check out my doc on [Git basic commands](https://github.com/BOLTZZ/Java/blob/master/GitBasicCommands.MD) to incorporate version control into your projects.
