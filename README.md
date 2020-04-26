@@ -8,6 +8,8 @@ Hi, my name is Ojas and you've found my Python repository. Here I have some Pyth
 3. [HTML & CSS](https://github.com/BOLTZZ/HTML-CSS)
 
 4. [Javascript](https://github.com/BOLTZZ/Javascript)
+
+5. [R](https://github.com/BOLTZZ/R)
 # Table Contents:
 | Python
 | ------------------
