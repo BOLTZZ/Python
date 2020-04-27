@@ -40,6 +40,37 @@ third_car = cars[2] #Gets the third car. Remember all lists/arrays start at 0.
 #Theres a ton more you can do with lists and would be too much to write down here.
 #Search the web :)
 ```
+List Comprehension:
+```python
+numbers_from_10_to_60 = [i for i in range (10, 60)]
+# The above is list comprehension since it uses a concise way to create a list.
+# List comprehension is when you usually use one liner for loops or if/else loops to create a concise list.
+# Without list comprehension:
+numbers_from_10_to_60 = []
+for i in range(10 60):
+  numbers_from_10_to_60.append(i)
+```
+Dictionaries:
+```python
+# Unlike lists, dictionaries contain keys and values:
+people_ages = {"John":13, "Aaron":20, "Mary":28, "Naruto":34, "Kushina":50}
+# Syntax: dictionary_name = {key:value}
+# Accessing value(s):
+john_age = people_ages["John"]
+# Changing value(s):
+people_ages["Aaron"] = 14
+#Theres a ton more you can do with dictionaries and would be too much to write down here.
+#Search the web :)
+```
+Dictionary Comprehension:
+```python
+# Dictionary comprehension is just like list comprehension:
+list_60 = [i for i in range(10, 60)]
+dict = {i:i/5 for i in list_60}
+# This copies the values of the list_60 over to dict while dividing them by 2.
+# Notice, the key for dict is the same value as list_60 but the value is the key divide by 2:
+dict = {10:2.0, 11:2.2, 12: 2.4, 13: 2.6, 14: 2.8, and so on..}
+```
 Function:
 ```python
 #Creating a function:
