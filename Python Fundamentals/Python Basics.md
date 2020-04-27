@@ -65,3 +65,10 @@ for car in cars: #The in operator helps iterate through each objects in the list
   print(car)
   #Prints each object
 ```
+Lambda:
+* The lambda creates a simpe function that may take in input(s) and return something. This is all done on one line. 
+* Lambda always returns whatever is after the semicolon (:).
+```python
+add = lambda x, y : x + y
+# The above is a simple add function
+```
