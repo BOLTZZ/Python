@@ -1,4 +1,12 @@
 # Syntax:
+Lambda:
+```python
+function_name = lambda input : code #The code after the semicolon (:) gets returned.
+multiply = lambda x,y : x * y
+# Lambda is usefuls since you dont have write this out:
+def multiply(self, x, y):
+  return x * y
+```
 Loops:
 ```python
 # While loop:
