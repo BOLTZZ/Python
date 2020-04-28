@@ -25,21 +25,25 @@ print("You were born in ", year_born)
     <td>Operator:</td>
     <td><a href = "https://github.com/BOLTZZ/Python">Python:</a></td>
     <td><a href = "https://github.com/BOLTZZ/Java">Java:</a></td>
+    <td><a href = "https://github.com/BOLTZZ/R">R:</a></td>
   </tr>
   <tr>
     <td>NOT</td>
     <td>not</td>
+    <td>!</td>
     <td>!</td>
   </tr>
   <tr>
     <td>OR</td>
     <td>or</td>
     <td>||</td>
+    <td>|</td>
   </tr>
   <tr>
     <td>AND</td>
     <td>and</td>
     <td>&&</td>
+    <td>&</td>
   </tr>
 </tbody>
 </table>
