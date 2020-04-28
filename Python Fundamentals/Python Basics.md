@@ -14,10 +14,10 @@ print("You were born in ", year_born)
 ```
 * Logical operaters are the same as Java but unlike Java, they're written differently:
 <table>
-<colgroup span = "3"></colgroup>
+<colgroup span = "4"></colgroup>
 <thead>
   <tr>
-     <th colspan = "3" scope = "colgroup">Logical Operator Comparision</th>
+     <th colspan = "4" scope = "colgroup">Logical Operator Comparision</th>
   </tr>
 </thead>
 <tbody>
