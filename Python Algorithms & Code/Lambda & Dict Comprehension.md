@@ -36,4 +36,4 @@ print(new_dict, "has been cropped down  depending of if the age of the person is
 ```
 See it in action:
 
-![1]()
+![1](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/List%20Comprehension/lambda_dict.gif)
