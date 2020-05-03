@@ -25,6 +25,8 @@ elif i > 100 (condition using else if):
   # execution
 else (no condition for else):
   # execution
+# One-line if/else conditonal statement:
+<if-true-return-this> if <boolean-conditon> else <if-false-return-this>
 # Try/Except statemnt to catch exceptions/errors:
 try:
   int = int(input("Please enter a number:"))
