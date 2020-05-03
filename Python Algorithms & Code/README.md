@@ -24,3 +24,7 @@ Magic With Files In Action:
 List Comprehension In Action:
 
 ![4](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/List%20Comprehension/list_comprehension.gif)
+
+Lamda And Dicionary Comprehension In Action:
+
+![5](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/List%20Comprehension/lambda_dict.gif)
