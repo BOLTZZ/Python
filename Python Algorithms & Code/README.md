@@ -7,6 +7,7 @@
 | [List Comprehension - A program that does a lot of cool things involving lists. Check it out!](https://github.com/BOLTZZ/Python/tree/master/Python%20Algorithms%20%26%20Code/List%20Comprehension)
 | [Lambda & Dictionary Comprehension - A program that does a lot of cool things involving lambdas and dictionaries. Check it out!](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Lambda%20%26%20Dict%20Comprehension.md)
 | [Number Properties Calculator - Finds certain properties of the inputted number.](https://github.com/BOLTZZ/Number-Properties)
+| [Map Function - Learn what the map function can do via an example.](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/Map%20Function.md)
 
 Asteroid Game In Action:
 
@@ -28,3 +29,7 @@ List Comprehension In Action:
 Lamda And Dicionary Comprehension In Action:
 
 ![5](https://github.com/BOLTZZ/Python/blob/master/Python%20Algorithms%20%26%20Code/List%20Comprehension/lambda_dict.gif)
+
+Map Function In Action:
+
+![6](https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/map_example.gif)
