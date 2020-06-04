@@ -46,6 +46,6 @@ def create_count_and_digit(temp, divided):
 look_say = "".join(create_count_and_digit(num, divided))
 print(look_say)
 ```
-
 In Action:
+
 ![1](https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/look%20and%20say.gif)
