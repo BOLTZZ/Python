@@ -26,6 +26,6 @@ value = "The rain in Spain"
 pattern = "^The[\w\s\d]*Spain$"
 print(re.findall(pattern, value))
 ```
-
 In Action:
+
 ![1](https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/regex.gif)
