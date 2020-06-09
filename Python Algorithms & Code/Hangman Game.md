@@ -93,4 +93,4 @@ while attempts != 0:
 ```
 In Action:
 
-![1]()
+![1](https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/hangman%20game.gif)
