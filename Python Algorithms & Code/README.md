@@ -22,7 +22,7 @@ Cat Running Animation In Action:
 
 Hangman In Action:
 
-![3](https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/hangman%20game.gif)
+![3](https://github.com/BOLTZZ/Python/raw/master/Extra%20Images%26Gifs/hangman%20game.gif)
 
 Magic With Files In Action:
 
