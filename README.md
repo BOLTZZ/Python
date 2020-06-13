@@ -3,7 +3,7 @@ Hi, my name is Ojas and you've found my Python repository. Here I have some Pyth
 # Check out my repos. on programming languages:
 1. [Java](https://github.com/BOLTZZ/Java)
 
-2.[C](https://github.com/BOLTZZ/C) 
+2. [C](https://github.com/BOLTZZ/C) 
 
 3. [Python](https://github.com/BOLTZZ/Python)
 
