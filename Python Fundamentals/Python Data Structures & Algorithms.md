@@ -53,4 +53,6 @@ Tree Traversal Algorithms:
 * Tree Traversal is visting each node in the tree exactly once to update or check them.
 
 Three Types of Tree Traversal Algorithms:
-1. In-order traversal is 
+1. In-order traversal is visiting the left nodes, root node, then right nodes.
+
+2. 
