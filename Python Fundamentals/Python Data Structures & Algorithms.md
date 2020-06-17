@@ -53,6 +53,18 @@ Tree Traversal Algorithms:
 * Tree Traversal is visting each node in the tree exactly once to update or check them.
 
 Three Types of Tree Traversal Algorithms:
-1. In-order traversal is visiting the left nodes, root node, then right nodes.
+1. In-order traversal is visiting the left nodes, root nodes, then right nodes.
+<img src = "https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/in-order.PNG" width = 150 height = 150>
 
-2. 
+2. Pre-order traversal is visiting the root nodes, left nodes, then right nodes.
+<img src = "https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/pre-order.PNG" width = 150 height = 150>
+
+3. Post-order traversal is visiting left nodes, right nodes, then root nodes.
+<img src = "https://github.com/BOLTZZ/Python/blob/master/Extra%20Images%26Gifs/post-order.PNG" width = 150 height = 150>
+
+Sorting Algorithms:
+1. Merge Sort
+2. Bubble Sort
+3. Insertion Sort
+4. Selection Sort
+5. Shell Sort
