@@ -1,4 +1,5 @@
 # Python Basics:
+* Python is an *interpreted* language which means the Python programs can be ran without first *linking* or *compiling* them.
 * Python uses tabs to organize code so semicolons (;) are not required:
 ```python
 def __init__(self, age, current_year): #Constructor method (Remember the self attribute).
