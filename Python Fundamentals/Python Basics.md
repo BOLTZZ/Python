@@ -1,4 +1,8 @@
 # Python Basics:
+* Python has 2 modes, *interative* and *standard* modes.
+  1. Interactive mode - Meant for experimenting with code, one line or expression at a time. 
+  2. Standard mode - Meant to run the programs from start to finish. 
+* Python 3 is not backwards compatible with Python 2 which means that if a program is written in Python 3 it cannot be ran in Python 2.
 * Python is an *interpreted* language which means the Python programs can be ran without first *linking* or *compiling* them.
 * Python uses tabs to organize code so semicolons (;) are not required:
 ```python
