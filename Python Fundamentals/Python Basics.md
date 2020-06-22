@@ -4,6 +4,11 @@
   2. Standard mode - Meant to run the programs from start to finish. 
 * Python 3 is not backwards compatible with Python 2 which means that if a program is written in Python 3 it cannot be ran in Python 2.
 * Python is an *interpreted* language which means the Python programs can be ran without first *linking* or *compiling* them.
+* Python has objects with type, value, and identity. Type informs Python about the data type (string, int, list, and more), value is the value contained by the object, and identity is like an identity number for the object (each distinct object is stored in the computer's memory has its own identity number).
+* Most objects have either functions, data, or both associated with them, known as *attributes*. The name of the attribute follows the name of the object, being seperated by a dot. The 2 types of attributes are either *data attributes* or *methods*. The data attribute is the value attached to an object while a method is a function attached to an object (performing some type of action on that object). Depending on the object type different methods may be avaliable. An *instance* is 1 occurrence of an object.
+* A *Namespace* is a container of names shared by the objects that typically go together. 
+* The ```dir(object_name)``` or ```dir(object_type)``` can return all the functions of an object.
+* You can find out what a method does by using the help function: ```help(method_name)```.
 * Python uses tabs to organize code so semicolons (;) are not required:
 ```python
 def __init__(self, age, current_year): #Constructor method (Remember the self attribute).
