@@ -43,5 +43,6 @@ with open(path, "w" ) as file_handle:
 ```
 * Use the rstrip() function to remove the newline (/n) character at the end of lines:
 ```python
-line.rstrip()
+# Assigned to a new variable because strings are immutable:
+new_line = line.rstrip()
 ```
