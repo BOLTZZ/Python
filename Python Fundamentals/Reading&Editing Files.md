@@ -41,3 +41,7 @@ with open(path, "w" ) as file_handle:
 # Writes the string in the parantheses and replaces all earlier text.
 # Check the Test file to see changes.
 ```
+* Use the rstrip() function to remove the newline (/n) character at the end of lines:
+```python
+line.rstrip()
+```
