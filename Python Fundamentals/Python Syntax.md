@@ -115,8 +115,12 @@ everyone & set([1, 2, 3])
 # Returns 1, 2, 3.
 ```
 Set Comprehension:
-* 
 ```python
+sentence = "I was walking down the road when an apple fell on my head."
+# Removes periods:
+words = sentence.lower().replace('.', '').split()
+# Pulls out unqiue words:
+unique_words = {word for word in words}
 ```
 Function:
 ```python
