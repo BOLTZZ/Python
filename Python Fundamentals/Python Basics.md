@@ -3,7 +3,16 @@
   1. Interactive mode - Meant for experimenting with code, one line or expression at a time. 
   2. Standard mode - Meant to run the programs from start to finish. 
 * Python 3 is not backwards compatible with Python 2 which means that if a program is written in Python 3 it cannot be ran in Python 2.
-* Python is an *interpreted* language which means the Python programs can be ran without first *linking* or *compiling* them.
+* Python is an *interpreted* language which means the Python programs can be ran without first *linking* or *compiling* them. Also, Python is *dynamically typed* unlike C which is *statically typed*, dynamically typed means *type checking* is performed at run time while statically typed means *type checking* is during compiling. Type checking is making sure the constraints of types are enforced to make sure a string is a string and an int is an int. In computer memory, variables are linked to objects being a reference for objects.
+* When variables are assigned objects in Python (like ```x = 3```) the following is what happens. First, Python will create the object (3), then the variable (x) will be created, lastly Python will create a reference from the variable (x) to the object (3).
+```python
+# The following creates 2 lists (l1 and l2), referencing the same object ([2, 3, 4]):
+l1 = [2, 3, 4]
+l2 = l1
+# The below changes the object [2, 3, 4] to [24, 3, 4] and since l1 and l2 reference the same object the value for l2 is [24, 3, 4], too:
+l1[0] = 24
+```
+* The copy module in Python creates 2 types of copies, *shallow copies* and *deep copies*. A shallow copy constructs a new compound object and then inserts references into the original object. On the other hand, a deep copy makes a new compound object and recursivley insets copies into the original objects. The difference is that shallow copies create a copy referencing objects in the pre-existing object *but* deep copies copy the entire structures (all the objects) and the new copy refrences the new copied objects.
 * Python has objects with type, value, and identity. Type informs Python about the data type (string, int, list, and more), value is the value contained by the object, and identity is like an identity number for the object (each distinct object is stored in the computer's memory has its own identity number).
 * Most objects have either functions, data, or both associated with them, known as *attributes*. The name of the attribute follows the name of the object, being seperated by a dot. The 2 types of attributes are either *data attributes* or *methods*. The data attribute is the value attached to an object while a method is a function attached to an object (performing some type of action on that object). Depending on the object type different methods may be avaliable. An *instance* is 1 occurrence of an object.
 * A *Namespace* is a container of names shared by the objects that typically go together. 
