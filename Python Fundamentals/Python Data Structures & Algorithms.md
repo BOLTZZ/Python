@@ -1,7 +1,7 @@
 # Data Structures And Algorithms:
 <strong>Data Structures:</strong>
 
-Built-in Data Structures:
+Built-in Data Structures (click [here](https://github.com/BOLTZZ/Python/edit/master/Python%20Fundamentals/Python%20Syntax.md) for more information):
 1. Lists - Lists are mutable array-like data structures that have each value as an item. They are defined by square brackets [value_1, value_2, ...].
 2. Dictionaries - Dictionaries are mutable data structures, known as associative arrays or hashes, they contain keys and items with each key mapped to an item/value and are unordered key-value pairs. They are defined as {key_1 : value_1, key_2 : value_2, ...}.
 3. Tuples - Tuples are the same as lists but, tuples are immutable unlike lists, and they're faster than lists. Also, tuples are represented by parantheses (value_1, value_2, ...).
