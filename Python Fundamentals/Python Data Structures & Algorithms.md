@@ -5,7 +5,7 @@ Built-in Data Structures (click [here](https://github.com/BOLTZZ/Python/blob/mas
 1. Lists - Lists are mutable array-like data structures that have each value as an item. They are defined by square brackets [value_1, value_2, ...].
 2. Dictionaries - Dictionaries are mutable data structures, known as associative arrays or hashes, they contain keys and items with each key mapped to an item/value and are unordered key-value pairs. They are defined as {key_1 : value_1, key_2 : value_2, ...}.
 3. Tuples - Tuples are the same as lists but, tuples are immutable unlike lists, and they're faster than lists. Also, tuples are represented by parantheses (value_1, value_2, ...).
-4. Sets - Sets are immutable data structures that contain unordered, <em>unique</em> elements. They're commonly used for mathematical operations and can be defined as {unique_value, unique_value, ...}. 
+4. Sets - Sets are mutable (frozen sets are immutable) data structures that contain unordered, <em>unique</em> elements. They're commonly used for mathematical operations and can be defined as {unique_value, unique_value, ...}. 
 
 User-Defined Data Structures:
 1. Stack - Linear data structures based on the LIFO (Last In-First Out) principle. LIFO is kind of like a stack of plates, the last plate (top plate) is the first plate removed. It's built using the array structure and, in Python, the functions .push() and .pop() add and remove, respectivley. Stacks are usually used in recursive programming, reversing words, and more.
