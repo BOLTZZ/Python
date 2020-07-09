@@ -17,7 +17,7 @@ l1[0] = 24
 * Most objects have either functions, data, or both associated with them, known as *attributes*. The name of the attribute follows the name of the object, being seperated by a dot. The 2 types of attributes are either *data attributes* or *methods*. The data attribute is the value attached to an object while a method is a function attached to an object (performing some type of action on that object). Depending on the object type different methods may be avaliable. An *instance* is 1 occurrence of an object.
 * A *Namespace* is a container of names shared by the objects that typically go together. 
 * The ```dir(object_name)``` or ```dir(object_type)``` can return all the functions of an object.
-* You can find out what a method does by using the help function: ```help(method_name)```.
+* You can find out what a method does by using the help function: ```help(method_name)```. Also, the dir function can be used to find out which methods/functions are part of a class instance: ```dir(object_name)```.
 * Python uses tabs to organize code so semicolons (;) are not required:
 ```python
 def __init__(self, age, current_year): #Constructor method (Remember the self attribute).
@@ -25,11 +25,17 @@ def __init__(self, age, current_year): #Constructor method (Remember the self at
   year_born = current_year - age
   return year_born
   # The code up above is inside the Constructor becuase its tabbed.
-current_year = 2020
+current_year = 2020 
 age = int(input("What is your age?")) #This line does 3 things. Asks the user for his/her age, takes in the answer, and casts that answer from string to an int. 
 year_born = init(age, current_year)#Calls the Constructor function and inputs in the required variables.
 print("You were born in ", year_born)
 #The code from lines 6 to 9 is not in the Constructor becuase its not tabbed.
+```
+* *Inheritance* is an object oriented programming (OOP) technique that creates a new class which inherits the attributes of a base class. This can help a programmer add more methods to an existing class (like lists, strings, and more) or help create new objects from a new class. An example:
+```python
+# New class called MyList using inheritance parantheses, inheriting the list class. Remember the class statement, below, doesn't create an instance (object) of MyList type:
+class MyList(list):
+  # Different added functions/attributes.
 ```
 * Logical operaters are the same as Java but unlike Java, they're written differently:
 <table>
